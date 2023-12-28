@@ -27,3 +27,18 @@ Além disso, DevOps está estabecido sobre 4 princípios e práticas essencias:
 Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps eu recomendo esses dois vídeos abaixo.
 - [O que é DevOps em Menos de 7 min](https://www.youtube.com/watch?v=5fQJC9iLCbE) (7 minutos)
 - [O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE) (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O [jefferson](https://twitter.com/badtux_) manja demais. Aproveita e se inscreve no canal dele porque ele sempre posta vídeos sobre DevOps. De nada :).
+
+## Supimpa! Assisti os vídeos, e agora?
+Maravilha, parabéns por ter assistido os vídeos introdutórios. Estou torcendo para que não desista a parte boa ainda nem começou hehe
+
+![](https://www.reactiongifs.com/r/cheering_minions.gif)
+
+
+Blzinha, pra ficar mais fácil tua navegação nesse guia. Eu vou separar cada tópico de estudo em pastas diferentes nesse mesmo repositório. Segue a sequência que eu sugiro que você siga: 
+**Caso você já tenha tenha conhecimento pratíco em algum tópico sinta-se a vontade para ir para os próximos.**
+
+**Trabalho em andamento, volte daqui algum tempo para atualização.** 👋
+
+
+
+
