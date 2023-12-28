@@ -25,5 +25,5 @@ Além disso, DevOps está estabecido sobre 4 princípios e práticas essencias:
 - Monitoramento
 
 Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps eu recomendo esses dois vídeos abaixo.
-1° - (O que é DevOps em Menos de 7 min)[https://www.youtube.com/watch?v=5fQJC9iLCbE] (7 minutos)
-2° - (O que é DevOps?)[https://www.youtube.com/watch?v=HzX6ZhmUjoE] (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O jefferson manja demais. Aproveita e se inscreve no canal dele porque ele sempre posta vídeos sobre DevOps. De nada :).
+- [O que é DevOps em Menos de 7 min](https://www.youtube.com/watch?v=5fQJC9iLCbE) (7 minutos)
+- [O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE) (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O jefferson manja demais. Aproveita e se inscreve no canal dele porque ele sempre posta vídeos sobre DevOps. De nada :).
