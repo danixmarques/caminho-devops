@@ -7,3 +7,23 @@ Indicado para pessoas que estão:
 - Profissionais de outras áreas de T.I que querem se familiarizar com DevOps
 
 Blz, agora você sabe pra quem é esse material de estudo, mas antes de começarmos a estudar as ferramentas e habilidades que um profissional Devops precisa saber, vamos entender um pouco dos conceitos que abrangem essa essa função supimpa dentro da engenharia de sofware.
+
+
+## O que é esse tal de DevOps
+O termo DevOps é bem amplo, e dependendo de onde você pesquisar pode encontrar várias definições diferentes, e todas podem estar corretas. Loucura, não? Mas calma, não fica muito preso em entender **TUDO** sobre DevOps nesse primeiro momento, senão você vai ficar "bilé" e vai acabar desanimando. Eu trabalho desde 2018 com isso e até hoje não consigo definir de forma completa o que é DevOps :).
+
+Então, a princípio, vamos focar no básico. 
+
+DevOps é fusão das palavras **"Desenvolvimento" + "Operações"**, é uma abordagem colaborativa que visa aumentar a eficiência e a agilidade no desenvolvimentos de sistemas.
+
+O conceito surgiu no início dos anos 2000 como uma resposta à crescente necessidade de superar as lacunas (e muitas tretas) entre times de desenvolvimento e operações. Embora não tenha um único criador, [Patrick Debois](https://twitter.com/patrickdebois) se destaca como um figura que fomentou o movimento Devops no início, ele organizou a primeira conferência, chamada 'DevOpsDays', na cidade de Gante, Bélgica, em 2009 proporcionando um fórum para a comunidade discutir e disseminar práticas colaborativas.
+
+Além disso, DevOps está estabecido sobre 4 princípios e práticas essencias:
+- Comunicação
+- Colaboração
+- Automação
+- Monitoramento
+
+Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps eu recomendo esses dois vídeos abaixo.
+1° - (O que é DevOps em Menos de 7 min)[https://www.youtube.com/watch?v=5fQJC9iLCbE] (7 minutos)
+2° - (O que é DevOps?)[https://www.youtube.com/watch?v=HzX6ZhmUjoE] (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O jefferson manja demais. Aproveita e se inscreve no canal dele porque ele sempre posta vídeos sobre DevOps. De nada :).
