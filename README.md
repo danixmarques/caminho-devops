@@ -38,8 +38,4 @@ Parabéns por ter assistido os vídeos introdutórios. Estou torcendo para que n
 Para facilitar tua navegação nesse guia, eu vou separar cada tópico de estudo em pastas diferentes nesse mesmo repositório. Segue a sequência que eu sugiro que você siga: 
 **Caso você já tenha conhecimento suficiente em algum tópico sinta-se a vontade para ir para os próximos.**
 
-**Trabalho em andamento, volte daqui algum tempo para atualização.** 👋
-
-
-
-
+1 - [Linux](Linux)
