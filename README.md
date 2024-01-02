@@ -35,7 +35,8 @@ Parabéns por ter assistido os vídeos introdutórios. Estou torcendo para que n
 ![](https://www.reactiongifs.com/r/cheering_minions.gif)
 
 
-Para facilitar tua navegação nesse guia, eu vou separar cada tópico de estudo em pastas diferentes nesse mesmo repositório. Segue a sequência que eu sugiro que você siga: 
-**Caso você já tenha conhecimento suficiente em algum tópico sinta-se a vontade para ir para os próximos.**
+Para facilitar tua navegação nesse guia, eu vou separar cada tópico de estudo em pastas diferentes nesse mesmo repositório. Segue a sequência que eu sugiro que você siga:
+> [!NOTE]
+> **Caso você já tenha conhecimento suficiente em algum tópico, sinta-se a vontade para avançar para os próximos.**
 
 1 - [Linux](Linux/linux.md)
