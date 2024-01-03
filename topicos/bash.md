@@ -4,3 +4,8 @@ Então comemore e orgulhe-se de si mesmo(a) pela consistência e perseverança. 
 
 Dito isso, agora você vai adentrar em um domínio, que literalmente, é um dos quatro pilares príncipais de DevOps, que é **Automação de Terefas**. 
 Faz muito sentido você aprender Bash Script após você se sentir a vontade no terminal, porque você vai poder aplicar todos os comandos que aprendeu através do Bash Script. É uma ferramenta poderosa que todo SysAdmin e profissional DevOps deve ter no curriculo.
+
+
+## **Recursos de estudo:**
+- [Shell Scripting](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=TLGGZYR5nqjstx4wMzAxMjAyNA&ab_channel=B%C3%B3sonTreinamentos)<sup>YOUTUBE</sup>
+- [Curso básico de programação em Bash](https://www.youtube.com/watch?v=ZM--I3NJ2jY&list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7&ab_channel=debxp)<sup>YOUTUBE</sup>
