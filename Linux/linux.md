@@ -7,7 +7,7 @@ Imagine o kernel como o maestro de uma orquestra, coordenando cada instrumento p
 
 Quando você interage com seu computador, o kernel está lá, garantindo que tudo funcione sem problemas, permitindo que aplicativos e hardware se entendam e trabalhem juntos de maneira eficiente.
 
-Há literalmente dezenas de Sistemas Operacionais que usam o kernel do Linux como "maestro". Nesse guia vou sugerir você realizar teus estudos e exercícios no Ubuntu, muitos servidores rodam no Ubuntu. Eu mesmo uso desde sempre hehe.
+Há literalmente dezenas de Sistemas Operacionais que usam o kernel do Linux como "maestro". Nesse guia vou sugerir você realizar teus estudos e exercícios no Ubuntu, muitos servidores rodam nele. Eu mesmo uso desde sempre hehe.
 
 Então segura na mão do [Tux](https://pt.wikipedia.org/wiki/Tux) 🐧 e vai na fé :)
 
