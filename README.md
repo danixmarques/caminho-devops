@@ -39,6 +39,6 @@ Para facilitar tua navegação nesse guia, eu vou separar cada tópico em um arq
 > [!NOTE]
 > **Caso você já tenha conhecimento suficiente em algum tópico, sinta-se a vontade para avançar para os próximos.**
 
-1 - [Linux](topics/linux.md)
+1 - [Linux](topicos/linux.md)
 
 2 - [Redes](topicos/redes.md)
