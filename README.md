@@ -41,4 +41,6 @@ Para facilitar tua navegação nesse guia, eu vou separar cada tópico em um arq
 
 1 - [Linux](topicos/linux.md)
 
+1.1 - [Bash Script](topicos/bash.md)
+
 2 - [Redes](topicos/redes.md)
