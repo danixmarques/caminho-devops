@@ -27,3 +27,5 @@ Método 2 - Fazer o DualBoot do Windows e Ubuntu. Dualboot é basicamente manter
 ## Recursos de estudo:
 - [LPIC-1 PDF](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-pt.pdf) <sup>GRÁTIS</sup>
 - [Curso de Linux Ubuntu Básico](https://www.youtube.com/watch?v=aW4Owxgcvq4&list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&index=1&ab_channel=MatheusBattisti-HoradeCodar) <sup>YOUTUBE</sup>
+- [Shell Scripting](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=TLGGZYR5nqjstx4wMzAxMjAyNA&ab_channel=B%C3%B3sonTreinamentos)<sup>YOUTUBE</sup>
+- [Curso básico de programação em Bash](https://www.youtube.com/watch?v=ZM--I3NJ2jY&list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7&ab_channel=debxp)<sup>YOUTUBE</sup>
