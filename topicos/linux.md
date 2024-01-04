@@ -2,7 +2,7 @@
 
 Conhecer o essencial de Linux e se virar bem no terminal é a primeira etapa a ser conquistada para você se tornar um Engenheiro DevOps de sucesso. Eu costumo falar que antes de ser um bom profissional DevOps, primeiro você precisa ser um ótimo SysAdmin no Linux.
 
-## Porque Linux?
+## Afinal, o que é Linux?
 
 Muitas pessoas se referem ao [Linux](https://github.com/torvalds/linux) como um Sistema Operacional assim como Windows e MacOs, porém não é bem assim. O Linux é, na verdade, um Kernel. 
 
