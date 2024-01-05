@@ -29,8 +29,14 @@ Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps
 - [O que é DevOps em Menos de 7 min](https://www.youtube.com/watch?v=5fQJC9iLCbE) (7 minutos)
 - [O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE) (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O [Jefferson](https://twitter.com/badtux_) manja demais. Aproveita e se inscreve no canal dele porque ele sempre posta vídeos sobre DevOps.
 
-Aproveita e  no meu também. De nada :).
-![(imgs/subscribe.jpg)](https://www.youtube.com/@DualBootTech?sub_confirmation=1)
+> [!NOTE]
+> **Aproveita e se inscreve no meu também :point_down:. De nada :).**
+
+<figure>
+<a href="https://www.youtube.com/@DualBootTech?sub_confirmation=1" target="_blank"><img src="imgs/subscribe.jpg" width="300"></a>
+<br>
+<figcaption>Créditos da imagem: <a href="https://br.freepik.com/vetores-gratis/botao-inscreva-se-e-siga-me-para-o-seu-canal-do-youtube-vetor_66612348.htm#query=png%20subscribe&position=4&from_view=search&track=ais&uuid=fb1ab6b5-1e87-48df-b433-45a321f1e006">Imagem de starline</a> no Freepik</figcaption>
+</figure>
 
 ## Supimpa! Assisti os vídeos, e agora?
 Parabéns por ter assistido os vídeos introdutórios. Estou torcendo para que não desista, a parte boa ainda nem começou hehe
