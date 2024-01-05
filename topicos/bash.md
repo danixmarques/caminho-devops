@@ -75,3 +75,9 @@ fi
 - [Learn Shell - Free Interactive Tutorial](https://www.learnshell.org/)<sup>GRÁTIS - INGLÊS</sup>
 - [IBM: Linux Commands & Shell Scripting](https://www.edx.org/learn/linux/ibm-linux-commands-shell-scripting?index=product&queryID=8514b7288e238992a83d5e2b0a8e3623&position=24&results_level=second-level-results&term=&objectID=course-ee317c5b-3ec4-473f-a7bd-4fa987c846d3&campaign=Linux+Commands+%26+Shell+Scripting&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)<sup>GRÁTIS - INGLÊS</sup>
 - [Classic Shell Scripting - O'Reilly](https://terrorgum.com/tfox/books/classicshellscripting.pdf)<sup>EBOOK - INGLÊS</sup>
+
+
+## **Sites para te ajudar a praticar Bash Script:**
+- [Exercism](https://exercism.org/tracks/bash/exercises)
+- [Hackerrank](https://www.hackerrank.com/domains/shell)
+- [Mertxe](https://www.emertxe.com/embedded-systems/linux-systems/ls-assignments/)
