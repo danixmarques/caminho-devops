@@ -1,12 +1,12 @@
 # Caminho DevOps (Work in progress)
-Um guia objetivo de estudo, em sua maioria com conteúdos gratuítos, para que você se torne um Engenheiro Devops. 
+Um guia objetivo de estudo, em sua maioria com conteúdos gratuítos, para que você se torne um Engenheiro Devops supimpa. 
 
 Indicado para:
 - Iniciando seus estudos em DevOps
 - Em transição de carreira para T.I para atuar como DevOps
 - Profissionais de outras áreas de T.I que querem se familiarizar com DevOps
 
-Blz, agora você sabe pra quem é esse material de estudo, mas antes de começarmos a estudar as ferramentas e habilidades que um profissional Devops precisa saber, vamos entender um pouco dos conceitos que abrangem essa função supimpa dentro da engenharia de sofware.
+Beleza, agora você sabe pra quem é esse material de estudo, mas antes de começarmos a estudar as ferramentas e habilidades que um profissional Devops precisa saber, vamos entender um pouco dos conceitos que abrangem essa função supimpa dentro da engenharia de software.
 
 
 ## O que é esse tal de DevOps
@@ -35,7 +35,7 @@ Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps
 <figure>
 <a href="https://www.youtube.com/@DualBootTech?sub_confirmation=1" target="_blank"><img src="imgs/subscribe.jpg" width="300"></a>
 <br>
-<figcaption>Créditos da imagem: <a href="https://br.freepik.com/vetores-gratis/botao-inscreva-se-e-siga-me-para-o-seu-canal-do-youtube-vetor_66612348.htm#query=png%20subscribe&position=4&from_view=search&track=ais&uuid=fb1ab6b5-1e87-48df-b433-45a321f1e006">Imagem de starline</a> no Freepik</figcaption>
+<figcaption>Créditos da imagem: <a href="https://br.freepik.com/vetores-gratis/botao-inscreva-se-e-siga-me-para-o-seu-canal-do-youtube-vetor_66612348.htm#query=png%20subscribe&position=4&from_view=search&track=ais&uuid=fb1ab6b5-1e87-48df-b433-45a321f1e006">Imagem de starline</a> no Freepik</figcaption size="10">
 </figure>
 
 ## Supimpa! Assisti os vídeos, e agora?
