@@ -21,5 +21,5 @@ Só o curso deve ser o suficiente. Mas deixei mais alguns outros recursos para c
 - [Fundamentos de Redes para DevOps](https://www.udemy.com/course/fundamentos-de-redes-para-devops/)<sup>UDEMY - PORTUGUÊS</sup>
 - [DNS e o sistema de nome de domínios na Internet
 ](https://www.youtube.com/watch?v=cN4A-nL2Nss&ab_channel=Dicion%C3%A1riodeInform%C3%A1tica)<sup>YOUTUBE - PORTUGUÊS</sup>
-- A melhor forma de você aprender [como DNS funciona](https://howdns.works/ep1/). Eu adoro esse site.<sup>WEBSITE - INGLÊS</sup>
+- [Como DNS funciona](https://howdns.works/ep1/)<sup>WEBSITE - INGLÊS</sup>
 - [Como HTTPS funciona](https://howhttps.works/episodes/)<sup>WEBSITE - INGLÊS</sup>
