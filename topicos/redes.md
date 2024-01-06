@@ -14,7 +14,7 @@ Você vai precisar ter esse conhecimento tanto para lidar com infraestrutura em 
 
 
 > [!NOTE]
-> Infelizmente eu não encontrei nenhum curso gratuíto (nem no Youtube) que abordasse todos os conceitos essenciais de redes pra que você precisa saber como DevOps. Então vou deixar um curso na Udemy que achei bem completo. Uma dica é esperar o curso ficar na faixa dos R$ 22,90. O que acontece com frequência. 
+> Infelizmente eu não encontrei nenhum curso gratuíto (nem no Youtube) que abordasse todos os conceitos essenciais de redes que você precisa saber antes de encarar tua primeira oportunidade como DevOps. Então vou deixar um curso na Udemy que achei bem completo. Uma dica é esperar o curso ficar na faixa dos R$ 22,90. O que acontece com frequência. 
 Só o curso deve ser o suficiente. Mas deixei mais alguns outros recursos para complementar.
 
 ## Recursos de estudo:
