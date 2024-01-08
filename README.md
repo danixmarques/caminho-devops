@@ -1,7 +1,7 @@
 # Caminho DevOps (Work in progress)
 Um guia objetivo de estudo, em sua maioria com conteúdos gratuítos, para que você se torne um Engenheiro Devops supimpa. 
 
-Indicado para:
+Indicado para quem está:
 - Iniciando seus estudos em DevOps
 - Em transição de carreira para T.I para atuar como DevOps
 - Profissionais de outras áreas de T.I que querem se familiarizar com DevOps
