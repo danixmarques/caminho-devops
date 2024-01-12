@@ -13,13 +13,13 @@ A principal diferença é que os containeres do Docker compartilham o sistema op
 
 |     | Docker | Máquina Virtual |
 | --- | --- | --- |
-| **SO**                            | SO compartilhado entre containeres             | Novo SO para cada MV
-| **Segurança**                     | Menos seguro¹ porque o sistema operacional     | Mais seguro, pois as MVs não compartilham o sistema operacional
-| **Desempenho**                    | Desempenho rápido mesmo com vários containeres | Mais máquinas virtuais equivalem a desempenho menos estável
-| **Tempo de inicialização**        | Rápido (segundos)                              | Lento (minutos)
-| **Necessidades de memória**       | Leve                                           | Requer muita memória
-| **Necessidades de armazenamento** | Geralmente megabytes                           | Geralmente gigabytes 
-| **Portabilidade**                 | Fácil de implantar em diferentes ambientes     | Difícil portar uma MV para outro sistema
+| **SO**                            | SO compartilhado entre containeres                                        | Novo SO para cada MV
+| **Segurança**                     | Menos seguro¹ porque o sistema operacional e o kernel são compartilhados  | Mais seguro, pois as MVs não compartilham o sistema operacional
+| **Desempenho**                    | Desempenho rápido mesmo com vários containeres                            | Mais máquinas virtuais equivalem a desempenho menos estável
+| **Tempo de inicialização**        | Rápido (segundos)                                                         | Lento (minutos)
+| **Necessidades de memória**       | Leve                                                                      | Requer muita memória
+| **Necessidades de armazenamento** | Geralmente megabytes                                                      | Geralmente gigabytes 
+| **Portabilidade**                 | Fácil de implantar em diferentes ambientes                                | Difícil portar uma MV para outro sistema
 
 1 -  Claro que há várias boas práticas para tornar uma aplicação em container mais segura. Mas essencialmente, as máquinas virtuais estão mais isoladas umas das outras e do sistema host do que os containeres. Isso ocorre porque as máquinas virtuais, não compartilham diretamente o kernel ou outros recursos com o sistema host.
 
