@@ -32,16 +32,18 @@ Nesse guia vou sugerir você realizar teus estudos e exercícios no **Ubuntu**, 
 Então segura na mão do [Tux](https://pt.wikipedia.org/wiki/Tux) 🐧 e vai na fé :)
 
 ## Instalação
-Vou sugerir três formas de você usar o Ubuntu na tua máquina:
+Vou sugerir algumas formas de você usar o Ubuntu na tua máquina:
 
 **Método 1** - Criar uma VM (máquina virtual) do Ubuntu, assim você não vai precisar desinstalar o Windows. Recomendo você assistir esse [vídeo](https://www.youtube.com/watch?v=xzOmCxZSQWw&list=PLAp37wMSBouCqJnY-Qck_XDwplEud3ELc&ab_channel=HardwareRedesBrasil) aqui para saber como criar uma máquina virtual do Ubuntu pelo Virtual Box.
 
+**Método 2** - [Instalar WSL2 no Windows](https://www.youtube.com/watch?v=qlLcnSvG1rA). O Subsistema do Windows para Linux (WSL2) é um recurso do Windows que permite executar um ambiente Linux (como Ubuntu, OpenSUSE, Kali, Debian, Arch Linux etc) em sua máquina Windows, sem a necessidade de uma máquina virtual separada ou DualBoot.
 
-**Método 2** - Fazer o DualBoot do Windows e Ubuntu. Dualboot é basicamente manter dois sistemas operacionais na mesma máquina, porém você só pode usar um por vez. Primeiro você precisa ter um [pendrive bootavel](https://www.youtube.com/watch?v=fekbCvIGwSI&ab_channel=ROVEEb) com o Ubuntu e depois fazer o processo de dualboot. Esse [vídeo aqui](https://www.youtube.com/watch?v=VK4eCi7ktCE&ab_channel=LSRSolu%C3%A7%C3%B5es) vai te ajudar com isso. 
+**Método 3** - Fazer o DualBoot do Windows e Ubuntu. Dualboot é basicamente manter dois sistemas operacionais na mesma máquina, porém você só pode usar um por vez. Primeiro você precisa ter um [pendrive bootavel](https://www.youtube.com/watch?v=fekbCvIGwSI&ab_channel=ROVEEb) com o Ubuntu e depois fazer o processo de DualBoot. Esse [vídeo aqui](https://www.youtube.com/watch?v=VK4eCi7ktCE&ab_channel=LSRSolu%C3%A7%C3%B5es) vai te ajudar com isso. 
 > [!CAUTION]
 > **Fique atento que o método 2 é avançado, e se não for feito de forma correta pode causar perda dos dados da tua máquina, então faça um backup antes. Se você não estiver seguro, siga o método 1.**
 
-**Método 3** - Formatar a máquina instalando o Linux Ubuntu. Esse método é diferente do DualBoot que mantém o Ubuntu e Windows na mesma máquina. Nesse caso aqui você vai manter somente o Ubuntu. Caso ainda não esteja preparado para sair da matrix :wink:, recomendo seguir o método 1 ou 2.
+**Método 4** - Formatar a máquina instalando o Linux Ubuntu. Esse método é diferente do DualBoot que mantém o Ubuntu e Windows na mesma máquina. Nesse caso aqui você vai manter somente o Ubuntu. Caso ainda não esteja preparado para sair da matrix :wink:, recomendo seguir o método 1, 2 ou 3.
+
 
 ## Recursos de estudo:
 - [LPIC-1 PDF](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-pt.pdf) <sup>GRÁTIS</sup>
