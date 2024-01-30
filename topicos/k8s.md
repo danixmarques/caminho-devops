@@ -22,6 +22,7 @@ Alguns outros orquestradores de containeres são Docker Swarm, Hashicorp Nomad, 
 - [Curso de Introdução ao Kubernetes](https://www.youtube.com/watch?v=RuNTvYejG90&list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs&index=1&ab_channel=InsightLab)<sup>YOUTUBE - PORTUGUÊS</sup>
 - [PRIMEIRA LIVE - MÊS DO KUBERNETES](https://www.youtube.com/watch?v=-i0rgPdpc2A&t=6101s&ab_channel=LINUXtips)<sup>YOUTUBE - PORTUGUÊS</sup>
 - [ÚLTIMA LIVE - MÊS DO KUBERNETES](https://www.youtube.com/watch?v=BJmKaf7w_eQ&t=1219s&ab_channel=LINUXtips)<sup>YOUTUBE - PORTUGUÊS</sup>
+- [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=QJ4fODH6DXI&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5&ab_channel=KodeKloud)<sup>YOUTUBE - INGLÊS</sup>
 - [Descomplicando o Kubernetes](https://livro.descomplicandokubernetes.com.br/pt/)<sup>HTML BOOK - PORTUGUÊS</sup>
 
 ###
