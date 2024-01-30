@@ -9,7 +9,7 @@ Com a ampla adoção de containeres entre as organizações, sejam elas startups
 
 A versão v1.0 (versão estável) do Kubernetes foi lançado em 21 de julho de 2015. Juntamente com o lançamento, o [Google](https://cloud.google.com/learn/what-is-kubernetes?hl=pt-br) fez uma parceria com a Linux Foundation para formar a Cloud Native Computing Foundation (CNCF) e ofereceu Kubernetes como uma tecnologia de base.
 
-Diferente de 7 anos atrás, saber Kubernetes hoje em dia já não é mais um diferencial para um Engenheiro Devops, seja qual for a senioridade. Dito isso aprender e dominar essa ferramenta é uma obrigação. É praticamente impossível encontrar vagas de emprego não exijam conhecimento sobre containeres e pelo menos uma ferramenta de orquestração de containeres, que quase sempre será o Kubernetes.
+Diferente de 7 anos atrás, saber Kubernetes hoje em dia já não é mais um diferencial para um Engenheiro Devops, seja qual for a senioridade. Dito isso aprender e dominar essa ferramenta é uma obrigação. É praticamente impossível encontrar vagas de emprego na área de DevOps que não exijam conhecimento sobre containeres e pelo menos uma ferramenta de orquestração de containeres, que quase sempre será o Kubernetes.
 
 Alguns outros orquestradores de containeres são Docker Swarm, Hashicorp Nomad, Apache Mesos, e Rancher. E é claro que provedores de nuvem como [AWS](https://aws.amazon.com/pt/eks/), [Azure](https://azure.microsoft.com/pt-br/products/kubernetes-service), e [Google Cloud](https://cloud.google.com/kubernetes-engine?hl=pt-BR) também oferecem o Kubernetes de forma gerenciada que acaba simplificando a operação dos clusteres, e acelerando a subida de aplicações.
 
