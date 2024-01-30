@@ -14,7 +14,7 @@ Diferente de 7 anos atrás, saber Kubernetes hoje em dia já não é mais um dif
 Alguns outros orquestradores de containeres são Docker Swarm, Hashicorp Nomad, Apache Mesos, e Rancher. E é claro que provedores de nuvem como [AWS](https://aws.amazon.com/pt/eks/), [Azure](https://azure.microsoft.com/pt-br/products/kubernetes-service), e [Google Cloud](https://cloud.google.com/kubernetes-engine?hl=pt-BR) também oferecem o Kubernetes de forma gerenciada que acaba simplificando a operação dos clusteres, e acelerando a subida de aplicações.
 
 > [!NOTE]
-> Aprender Kubernetes pode ser um desafio porque é uma ferramenta com muitos componentes diferentes que possuem um papel essencial dentro um cluster do Kubernetes. O conselho que te dou é, primeiro, antes de tudo, aprenda o papel de cada componente do Kubernetes, se possível até decore, porque isso vai te ajudar demais ao administrar os clusteres, especialmente no processo de dubugging. O que com certeza você vai fazer bastante :).
+> Aprender Kubernetes pode ser um desafio, pois é uma ferramenta com muitos componentes diferentes que performam papeis bem específicos dentro um cluster do Kubernetes. O conselho que te dou é, primeiro, antes de tudo, aprender o papel de cada componente do Kubernetes, se possível até decore, porque isso vai te ajudar demais ao administrar os clusteres, especialmente no processo de dubugging. O que com certeza você vai fazer bastante :).
 
 
 ## **Recursos de estudo:**
