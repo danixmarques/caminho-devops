@@ -1,4 +1,15 @@
-# Container
+# Contêineres
+
+Contêineres são como caixas universais para transporte de mercadorias, mas em T.I eles são um tipo de tecnologia de virtualização que permite empacotar e executar aplicativos e seus componentes, como bibliotecas e dependências, de maneira rápida e confiável em diferentes ambientes, como computadores desktop, laptops, servidores on premisse e nuvem. É como se fosse uma caixa que contém tudo o que um aplicativo precisa para funcionar, o que simplifica a distribuição de software e garante que ele funcione da mesma forma em qualquer lugar, facilitando o trabalho dos desenvolvedores e tornando os processos de implantação mais eficientes.
+
+Se você é uma pessoal que entende mais de forma visual, eu recomendo [esse vídeo aqui](https://www.youtube.com/watch?v=jv4_sLlGOS0&ab_channel=Alura) para entender o que são contêineres.
+
+Antes de mais nada, é importante você conhecer as diferenças entre Container Engine e Container runtime. Isso vai fazer toda a diferença no teu aprendizado sobre contêineres.
+
+- Container Engine
+
+- Container Runtime
+
 
 Apesar do [Docker](https://www.docker.com/) ser o Container Engine mais usado atualmente, essa história de container é bem antiga, começando com Unix V7 em 1979. A partir daí surgiram várias outras ferramentas para melhorar o isolamento da execução de processos em relação ao host. Mais detalhes [nesse artigo](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016).
 
