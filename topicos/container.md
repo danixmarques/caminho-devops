@@ -4,7 +4,7 @@ Contêineres são como caixas universais para transporte de mercadorias, mas em 
 
 Se você é uma pessoal que entende mais de forma visual, eu recomendo [esse vídeo aqui](https://www.youtube.com/watch?v=jv4_sLlGOS0&ab_channel=Alura) para entender o que são contêineres.
 
-Antes de mais nada, é importante você conhecer as diferenças entre Container Engine e Container runtime. Isso vai fazer toda a diferença no teu aprendizado sobre contêineres daqui pra frente.
+Antes de mais nada, é importante você conhecer as diferenças entre Container Engine e Container runtime. Isso vai fazer toda a diferença no teu aprendizado sobre contêineres daqui em diante.
 
 - Container Engine
 
