@@ -1,10 +1,10 @@
 # Contêineres
 
-Contêineres são como caixas universais para transporte de mercadorias, mas em T.I eles são um tipo de tecnologia de virtualização que permite empacotar e executar aplicativos e seus componentes, como bibliotecas e dependências, de maneira rápida e confiável em diferentes ambientes, como computadores desktop, laptops, servidores on premisse e nuvem. É como se fosse uma caixa que contém tudo o que um aplicativo precisa para funcionar, o que simplifica a distribuição de software e garante que ele funcione da mesma forma em qualquer lugar, facilitando o trabalho dos desenvolvedores e tornando os processos de implantação mais eficientes.
+Contêineres são como caixas universais para transporte de mercadorias, mas em T.I eles são um tipo de tecnologia de virtualização que permite empacotar e executar aplicativos e seus componentes, como bibliotecas e dependências, de maneira rápida e confiável em diferentes ambientes, como computadores desktop, laptops, servidores on premise e nuvem (sim, o negócio é supimpa mesmo). É como se fosse uma caixa que contém tudo o que um aplicativo precisa para funcionar, o que simplifica a distribuição de software e garante que ele funcione da mesma forma em qualquer lugar, facilitando o trabalho dos desenvolvedores e tornando os processos de implantação mais eficientes e escaláveis, vai por mim é muito mais fácil escalar (aumentar e diminuir a quantidade) de contêineres do que máquinas virtuais.
 
 Se você é uma pessoal que entende mais de forma visual, eu recomendo [esse vídeo aqui](https://www.youtube.com/watch?v=jv4_sLlGOS0&ab_channel=Alura) para entender o que são contêineres.
 
-Antes de mais nada, é importante você conhecer as diferenças entre Container Engine e Container runtime. Isso vai fazer toda a diferença no teu aprendizado sobre contêineres.
+Antes de mais nada, é importante você conhecer as diferenças entre Container Engine e Container runtime. Isso vai fazer toda a diferença no teu aprendizado sobre contêineres daqui pra frente.
 
 - Container Engine
 
