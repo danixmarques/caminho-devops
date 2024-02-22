@@ -6,7 +6,8 @@ Se você é uma pessoa que entende as coisas de forma visual, eu recomendo [esse
 
 Antes de mais nada, é importante você conhecer as diferenças entre Container Engine e Container Runtime. Isso vai fazer toda a diferença no teu aprendizado sobre contêineres daqui em diante.
 
-- Container Engine
+- **Container Engine**
+
 Software que dispõe de uma interface de linha de comando para criar e deletar imagens de conteiner, fazer upload e download de imagens em registries (repositórios para imagens de contêineres), enviar comando de execução de um conteiner, etc.
 Docker é um conteiner engine. Se você tiver ele instalado na sua máquina ou em algum servidor, experimente executar o comando `docker --help`. Um output semelhante a esse, com várias opções de comandos, deve aparecer em seu terminal:
 ```
@@ -104,7 +105,8 @@ For more help on how to use Docker, head to https://docs.docker.com/go/guides/
 
 Além do Docker, existem outros Container Engine: [Buildah](https://github.com/containers/buildah), [CRI-O](https://github.com/cri-o/cri-o), e [LXD](https://linuxcontainers.org/lxd/).
 
-- Container Runtime
+- **Container Runtime**
+
 Ok, mas se eu já tenho um Container Engine que faz tudo o que eu quero, porque preciso de Container Runtime?
 
 Ótima pergunta :). Diferente do engine, o Container Runtime é um daemon (processo que fica em execução em background no S.O) que, de fato, faz o trabalho duro de manter os contêineres em execução (e para-los quando receber ocorrer algum erro ou comando), atribui um ID único para cada conteiner, valida a configuração da imagem para criar o conteiner, isola o conteiner do host através da namespace do kernel, configura o filesystem para cada conteiner, etc.
