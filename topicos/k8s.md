@@ -4,7 +4,7 @@
 > Um pré-requisito para ingressar nesse tópico é ter conhecimento teórico e prático sobre [containers](./container.md), além de entender seus fundamentos e aplicações. Sem esse conhecimento você não vai entender *bulhufas* desse tópico :).
 
 > [!CAUTION]
-> Outra observação importante: [O Kubernetes anunciou em dezembro de 2020](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/) que iria descontinuar o Docker Runtime porque o Docker não foi projetado para ser o Runtime do Kubernetes.
+> Outra observação importante: [O Kubernetes anunciou em dezembro de 2020](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/) que iria descontinuar o Docker Runtime porque o Docker não foi projetado para ser o Runtime do Kubernetes. "Uai! E como funcionava antes então?". Tem todo uma [explicação técnica e tals](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/#so-why-the-confusion-and-what-is-everyone-freaking-out-about), mas pode ser resumido com: **GAMBIARRA**.
 
 O Docker não faz download e nem inicia contêineres. Em vez disso, é um componente chamado Containerd (Container Runtime do Docker) que faz essas coisas.
 
