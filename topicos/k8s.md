@@ -11,6 +11,7 @@ O Docker não faz download e nem inicia contêineres. Em vez disso, é um compon
 Mas "carma" que isso não é o fim do mundo. Ainda é possível usar imagens de container construídas pelo Docker, porque ele segue o padrão de imagem chamado Container Runtime Interface (CRI). Então qualquer imagem que for construída por um Container Engine que segue o padrão (CRI) vai executar no Kubernetes sem problemas.
 
 "Pow! Então se eu não posso mais usar o Docker como Runtime do Kubernetes, o que eu uso então?"
+
 Bom, nem só de Docker vivem os runtimes. Vou deixar algumas alternativas muito boas:
 - [CRI-O](https://cri-o.io/)
 - [Containerd](https://containerd.io/)
