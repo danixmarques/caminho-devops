@@ -52,8 +52,14 @@ Para facilitar tua navegação nesse guia, eu vou separar cada tópico em um arq
 
 2 - [Bash Script](topicos/bash.md)
 
-3 - [Redes](topicos/redes.md)
+3 - [GitOps](gitops/gitops.md)
 
-4 - [Container](topicos/container.md)
+4 - [Redes](topicos/redes.md)
 
-5 - [Kubernetes](topicos/k8s.md)
+5 - [Contêineres](topicos/container.md)
+
+6 - [Kubernetes](topicos/k8s.md)
+
+7 - [Ansible](topicos/ansible.md)
+
+8 - [Cloud Provider (AWS)](topicos/aws.md)
