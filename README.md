@@ -52,7 +52,7 @@ Para facilitar tua navegação nesse guia, eu vou separar cada tópico em um arq
 
 2 - [Bash Script](topicos/bash.md)
 
-3 - [GitOps](gitops/gitops.md)
+3 - [GitOps](topicos/gitops.md)
 
 4 - [Redes](topicos/redes.md)
 
