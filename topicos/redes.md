@@ -13,11 +13,12 @@ Você vai precisar ter esse conhecimento tanto para lidar com infraestrutura em 
 - Notação CIDR e Máscaras de Rede: A compreensão destes conceitos é crucial para configurar eficientemente endereços IP, facilitando a administração de redes complexas.
 
 
+## Recursos de estudo:
 > [!NOTE]
 > Infelizmente eu não encontrei nenhum curso gratuíto (nem no Youtube) que abordasse todos os conceitos essenciais de redes que você precisa saber antes de encarar tua primeira oportunidade como DevOps. Então vou deixar um curso na Udemy que achei bem completo. Uma dica é esperar o curso ficar na faixa dos R$ 22,90. O que acontece com frequência. 
-Só o curso deve ser o suficiente. Mas deixei mais alguns outros recursos para complementar.
+Só o curso deve ser o suficiente, vale a grana
+. Mas deixei mais alguns outros recursos para complementar:
 
-## Recursos de estudo:
 - [Fundamentos de Redes para DevOps](https://www.udemy.com/course/fundamentos-de-redes-para-devops/)<sup>UDEMY - PORTUGUÊS</sup>
 - [DNS e o sistema de nome de domínios na Internet
 ](https://www.youtube.com/watch?v=cN4A-nL2Nss&ab_channel=Dicion%C3%A1riodeInform%C3%A1tica)<sup>YOUTUBE - PORTUGUÊS</sup>

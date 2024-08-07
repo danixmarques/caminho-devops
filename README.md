@@ -10,24 +10,54 @@ Beleza, agora você sabe pra quem é esse material de estudo, mas antes de come�
 
 
 ## O que é esse tal de DevOps
-O termo DevOps é bem amplo, e dependendo de onde você pesquisar pode encontrar várias definições diferentes, e todas podem estar corretas. Loucura, não? 
-Mas calma, não fica muito preso em entender **TUDO** sobre DevOps nesse primeiro momento, senão você vai ficar "bilé" e vai acabar desanimando. Eu trabalho desde 2018 com isso e até hoje não consigo definir de forma completa o que é DevOps :).
-
-Então, a princípio, vamos focar no básico. 
+A princípio, vamos focar no básico. 
 
 DevOps é a fusão das palavras **"Desenvolvimento" + "Operações"**, é uma abordagem colaborativa cujo objetivo é aumentar a eficiência e a agilidade no desenvolvimentos de sistemas.
 
-O conceito surgiu no início dos anos 2000 como uma resposta à crescente necessidade de superar as lacunas (e muitas tretas) entre times de desenvolvimento e operações. Embora não tenha um único criador, [Patrick Debois](https://twitter.com/patrickdebois) se destaca como um figura que fomentou o movimento Devops desde do início. Ele organizou a primeira conferência, chamada 'DevOpsDays', na cidade de Gante, Bélgica, em 2009 proporcionando um fórum para a comunidade discutir e disseminar práticas colaborativas.
+O conceito surgiu no início dos anos 2000 como uma resposta à crescente necessidade de superar as lacunas (e muitas tretas) entre times de desenvolvimento e operações. Embora não tenha um único criador, [Patrick Debois](https://twitter.com/patrickdebois) se destaca como um figura que fomentou o movimento Devops desde do início. Ele organizou a primeira conferência, chamada 'DevOpsDays', na cidade de Gante, Bélgica, em 2009 proporcionando um fórum para a comunidade discutir e disseminar práticas colaborativas. Foi nesse mesmo em que o termo DevOps foi cunhado.
+
+Como nada se cria do nada. DevOps se apoia fortemente em outras metodologias como: Lean, Teoria da Restrições, O Sistema de Produção Toyota, e muitos outros.
+
+Quando comecei a trabalhar como DevOps em 2018, eu não entendia muito bem o conceito de DevOps. Era um movimento? Uma cultura? Um conjunto de práticas?
+
+Depois de alguns meses criando pipelines de deployment, criando servidores na nuvem e no VMWare, gerenciando clusters de Kubernetes e muitas outras tarefas que englobam a tecnologia da informação, eu passei a acreditar que "aquilo" que eu estava fazendo era ser um "DevOps".
+
+Embora o termo "DevOps" tenha sido cunhado por Patrick Debois, o mercado sempre dá um jeitinho de alterar o significado e papel relacionado a esse termo dependendo da época e do momento. DevOps passou a ser um profissional que faz tudo isso que mencionei (e muito mais) no parágrafo anterior.
+
+Mas será que é só isso mesmo? Então todo esse hype de DevOps foi só para criar um novo papel dentro de um time e fazer essa pessoa sair criando toda a infraestrutura necessária (em especial, na nuvem) que um sistema precisa para chegar até o ambiente produtivo?
+
+Essas são algumas daquelas "perguntas da alma" que buscam trazer à luz verdades que ficam esquecidas por um tempo até um ser corajoso começar a "cavucar" em todos os terrenos possíveis por uma resposta mais eficaz.
+
+Dito isso, onde melhor encontrar a resposta para o que é DevOps do que nas palavras do homem que cunhou o termo?
+
+Em 2021, Patrick Debois fez um breve post aqui no LinkedIn explicando o que é "DevOps":
+
+"Minha definição atual de Dev*Ops: tudo o que você faz para superar o atrito criado pelos silos... Todo o resto é engenharia simples." - Patrick Debois
+
+É isso, claro como água. Até mesmo o meu eu de 2018 entenderia essa definição se lhe fosse apresentada.
+
+"Ah, mas isso foi em 2021, T.I. está em constante mudança, essa definição nem deve ser a mesma hoje em dia."
+
+Ou será que não? 😏
+
+Em uma entrevista no final de 2023, Patrick foi questionado sobre o que realmente seria "DevOps" e ele lançou a braba novamente:
+
+"Tentei resumir isso uma vez em um tweet: DevOps trata de remover o atrito entre silos. Todo o resto é engenharia." - Patrick Debois
+
+Interessante, não? Perceba que ele fala em "remover atrito entre silos". Os silos (Dev, Ops, Data, Sec, etc.) sempre irão existir. No entanto, todos podemos remover atritos, todos podemos ser facilitadores, todos podemos remover barreiras e obstruções sejam físicas ou comportamentais que podem impedir que entregas sejam feitas. Não importando o time em que estamos e o papel que exercemos.
+
+Isso é DevOps na sua mais pura essência.
 
 Além disso, DevOps está estabecido sobre 4 princípios e práticas essencias:
-- Comunicação
+- Comunicação não violenta
 - Colaboração
 - Automação
-- Monitoramento
+- Monitoramento & Telemetria
 
 Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps eu recomendo esses dois vídeos abaixo.
 - [O que é DevOps em Menos de 7 min](https://www.youtube.com/watch?v=5fQJC9iLCbE) (7 minutos)
-- [O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE) (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O [Jefferson](https://twitter.com/badtux_) manja demais. Aproveita e se inscreve no canal dele porque ele sempre posta vídeos sobre DevOps.
+- [O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE) (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O [Jefferson](https://twitter.com/badtux_) manja demais.
+- [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM) (35 minutos - Inglês)
 
 > [!NOTE]
 > **Aproveita e se inscreve no meu também :point_down:. De nada :).**
@@ -52,9 +82,9 @@ Para facilitar tua navegação nesse guia, eu vou separar cada tópico em um arq
 
 2 - [Bash Script](topicos/bash.md)
 
-3 - [GitOps](topicos/gitops.md)
+3 - [Redes](topicos/redes.md)
 
-4 - [Redes](topicos/redes.md)
+4 - [GitOps](topicos/gitops.md)
 
 5 - [Contêineres](topicos/container.md)
 

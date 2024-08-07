@@ -46,7 +46,9 @@ Vou sugerir algumas formas de você usar o Ubuntu na tua máquina:
 
 
 ## Recursos de estudo:
-- [LPIC-1 PDF](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-pt.pdf) <sup>PDF GRÁTIS - PORTUGUÊS</sup>
+- Eu super recomendo esse curso porque tem TUDO o que você precisa saber para se tornar um Linux Admin, especialmente se você é capaz de entender inglês. Você pode estudar todos os vídeos da playlist. Mas a parte importante mesmo começa no [5° vídeo](https://www.youtube.com/watch?v=VjZKvkZQm1U&list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW&index=5&pp=iAQB):
+  - [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)<sup>YOUTUBE - INGLÊS</sup>
 - [Curso de Linux Ubuntu Básico](https://www.youtube.com/watch?v=aW4Owxgcvq4&list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&index=1&ab_channel=MatheusBattisti-HoradeCodar) <sup>YOUTUBE - PORTUGUÊS</sup>
-- [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?index=product&queryID=94f1b3b8dd11b444494d8dcfb10ece99&position=18&results_level=second-level-results&term=&objectID=course-5a631d1c-cb20-4cfc-9b49-1cc9c8fc981e&campaign=Introduction+to+Linux&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)<sup>GRÁTIS - INGLÊS</sup>
 - [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials?ref=itsfoss.com)<sup>GRÁTIS - INGLÊS</sup>
+- [LPIC-1 PDF](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-pt.pdf) <sup>PDF GRÁTIS - PORTUGUÊS</sup>
+- [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?index=product&queryID=94f1b3b8dd11b444494d8dcfb10ece99&position=18&results_level=second-level-results&term=&objectID=course-5a631d1c-cb20-4cfc-9b49-1cc9c8fc981e&campaign=Introduction+to+Linux&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)<sup>GRÁTIS - INGLÊS</sup>
