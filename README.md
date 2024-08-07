@@ -59,6 +59,10 @@ Interessante, não? Caso queria expandir um pouco mais a tua visão sobre DevOps
 - [O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE) (25 minutos) - Esse vídeo é um pouco antigo, mas é muito esclarecedor. O [Jefferson](https://twitter.com/badtux_) manja demais.
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM) (35 minutos - Inglês)
 
+Quer se aprofundar mais no tema? recomendo esse livro, que inclusive tem partição do Patrick Debois:
+- Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas.
+#
+
 > [!NOTE]
 > **Aproveita e se inscreve no meu também :point_down:. De nada :).**
 
