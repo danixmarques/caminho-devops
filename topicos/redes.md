@@ -19,7 +19,10 @@ Você vai precisar ter esse conhecimento tanto para lidar com infraestrutura em 
 Só o curso deve ser o suficiente, vale a grana
 . Mas deixei mais alguns outros recursos para complementar:
 
+### Obrigatórios:
 - [Fundamentos de Redes para DevOps](https://www.udemy.com/course/fundamentos-de-redes-para-devops/)<sup>UDEMY - PORTUGUÊS</sup>
+
+### Opcionais:
 - [DNS e o sistema de nome de domínios na Internet
 ](https://www.youtube.com/watch?v=cN4A-nL2Nss&ab_channel=Dicion%C3%A1riodeInform%C3%A1tica)<sup>YOUTUBE - PORTUGUÊS</sup>
 - [Como DNS funciona](https://howdns.works/ep1/)<sup>WEBSITE - INGLÊS</sup>

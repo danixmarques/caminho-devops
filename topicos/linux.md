@@ -14,17 +14,16 @@ Quando você interage com seu computador, o kernel está lá, garantindo que tud
 
 Há literalmente dezenas de Sistemas Operacionais que usam o kernel do Linux como "maestro". Quase sempre você ta usufruindo dessa onipresença do Linux e nem percebe.
 
-Duvida?! Então aqui vai algumas estatisticas :sunglasses::
-- 47% dos desenvolvedores profissionais usam sistemas operacionais baseados em Linux. (Estatista)
+Duvida?! Então aqui vai algumas estatísticas 😎:
+- 47% dos desenvolvedores profissionais usam sistemas operacionais baseados em Linux. (Estatística)
 - O Linux alimenta 39,2% dos sites cujo sistema operacional é conhecido. (W3Techs)
 - O Linux alimenta 85% dos smartphones. (Hayden James)
-- Linux, o terceiro sistema operacional de desktop mais popular, tem uma participação de mercado de 2,09%. (Estatista)
 - O tamanho do mercado Linux em todo o mundo chegará a US$ 15,64 bilhões até 2027. (Fortune Business Insights)
-- Os 500 supercomputadores mais rápidos do mundo rodam em Linux. (Preto)
+- Os 500 supercomputadores mais rápidos do mundo rodam em Linux.
 - 96,3% dos um milhão de servidores da Web estão executando o Linux. (ZDNet)
 - Hoje, existem mais de 600 distribuições Linux ativas. (Tecmint)
 
-Fonte: [o-ano-do-linux-no-desktop-ainda-chegara](https://www.edivaldobrito.com.br/o-ano-do-linux-no-desktop-ainda-chegara/)
+Fonte: [o-ano-do-linux-no-desktop-ainda-chegará](https://www.edivaldobrito.com.br/o-ano-do-linux-no-desktop-ainda-chegara/)
 
 
 Nesse guia vou sugerir você realizar teus estudos e exercícios no **Ubuntu**, porque muitos servidores rodam nele por conta da sua segurança e robustez. Eu mesmo uso a versão desktop desde sempre hehe.
@@ -34,7 +33,7 @@ Então segura na mão do [Tux](https://pt.wikipedia.org/wiki/Tux) 🐧 e vai na 
 ## Instalação
 Vou sugerir algumas formas de você usar o Ubuntu na tua máquina:
 
-**Método 1** - Criar uma VM (máquina virtual) do Ubuntu, assim você não vai precisar desinstalar o Windows. Recomendo você assistir esse [vídeo](https://www.youtube.com/watch?v=xzOmCxZSQWw&list=PLAp37wMSBouCqJnY-Qck_XDwplEud3ELc&ab_channel=HardwareRedesBrasil) aqui para saber como criar uma máquina virtual do Ubuntu pelo Virtual Box.
+**Método 1** - Criar uma VM (máquina virtual) do Ubuntu, assim você não vai precisar desinstalar o Windows. Recomendo você assistir esse [vídeo](https://youtu.be/DjSAS3guMSU) aqui para saber como criar uma máquina virtual do Ubuntu pelo Virtual Box.
 
 **Método 2** - [Instalar WSL2 no Windows](https://www.youtube.com/watch?v=qlLcnSvG1rA). O Subsistema do Windows para Linux (WSL2) é um recurso do Windows que permite executar um ambiente Linux (como Ubuntu, OpenSUSE, Kali, Debian, Arch Linux etc) em sua máquina Windows, sem a necessidade de uma máquina virtual separada ou DualBoot.
 
@@ -46,9 +45,17 @@ Vou sugerir algumas formas de você usar o Ubuntu na tua máquina:
 
 
 ## Recursos de estudo:
+### Obrigatórios:
 - Eu super recomendo esse curso porque tem TUDO o que você precisa saber para se tornar um Linux Admin, especialmente se você é capaz de entender inglês. Você pode estudar todos os vídeos da playlist. Mas a parte importante mesmo começa no [5° vídeo](https://www.youtube.com/watch?v=VjZKvkZQm1U&list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW&index=5&pp=iAQB):
   - [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)<sup>YOUTUBE - INGLÊS</sup>
-- [Curso de Linux Ubuntu Básico](https://www.youtube.com/watch?v=aW4Owxgcvq4&list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&index=1&ab_channel=MatheusBattisti-HoradeCodar) <sup>YOUTUBE - PORTUGUÊS</sup>
+  
+### Alternativos (curto, mas incompleto):
+- Esse curso é uma alternativa ao conteúdo obrigatório, porém é um curso mais curto que não aborda 100% sobre Linux, mas da uma boa base para um início rápido. Além de ser em Português:
+   - [Curso de Linux Ubuntu Básico](https://www.youtube.com/watch?v=aW4Owxgcvq4&list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&index=1&ab_channel=MatheusBattisti-HoradeCodar) <sup>YOUTUBE - PORTUGUÊS</sup>
+
+- Outra alternativa, porém é em inglês:
+- [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?index=product&queryID=94f1b3b8dd11b444494d8dcfb10ece99&position=18&results_level=second-level-results&term=&objectID=course-5a631d1c-cb20-4cfc-9b49-1cc9c8fc981e&campaign=Introduction+to+Linux&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)<sup>GRÁTIS - INGLÊS</sup>
+
+### Opcionais:
 - [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials?ref=itsfoss.com)<sup>GRÁTIS - INGLÊS</sup>
 - [LPIC-1 PDF](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-pt.pdf) <sup>PDF GRÁTIS - PORTUGUÊS</sup>
-- [LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?index=product&queryID=94f1b3b8dd11b444494d8dcfb10ece99&position=18&results_level=second-level-results&term=&objectID=course-5a631d1c-cb20-4cfc-9b49-1cc9c8fc981e&campaign=Introduction+to+Linux&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)<sup>GRÁTIS - INGLÊS</sup>

@@ -40,13 +40,15 @@ Alguns outros orquestradores de containeres são Docker Swarm, Hashicorp Nomad, 
 
 
 ## **Recursos de estudo:**
-- [O que é Kubernetes](https://www.youtube.com/watch?v=1qmaMaOygjU&ab_channel=FullCycle)<sup>YOUTUBE - PORTUGUÊS</sup>
+### Obrigatórios:
+O melhor curso de Kubernetes que fiz até hoje, se você não tem problema com inglês, eu super recomendo. Porque é excelente.
+- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)<sup>UDEMY - INGLÊS</sup> 
+
+### Alternativos (curto, mas incompleto):
 - [Curso de Introdução ao Kubernetes](https://www.youtube.com/watch?v=RuNTvYejG90&list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs&index=1&ab_channel=InsightLab)<sup>YOUTUBE - PORTUGUÊS</sup>
-- [PRIMEIRA LIVE - MÊS DO KUBERNETES](https://www.youtube.com/watch?v=-i0rgPdpc2A&t=6101s&ab_channel=LINUXtips)<sup>YOUTUBE - PORTUGUÊS</sup>
-- [ÚLTIMA LIVE - MÊS DO KUBERNETES](https://www.youtube.com/watch?v=BJmKaf7w_eQ&t=1219s&ab_channel=LINUXtips)<sup>YOUTUBE - PORTUGUÊS</sup>
 - [Kubernetes for the Absolute Beginners](https://www.youtube.com/watch?v=QJ4fODH6DXI&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5&ab_channel=KodeKloud)<sup>YOUTUBE - INGLÊS</sup>
+
+### Opcionais:
+- [O que é Kubernetes](https://www.youtube.com/watch?v=1qmaMaOygjU&ab_channel=FullCycle)<sup>YOUTUBE - PORTUGUÊS</sup>
 - [Descomplicando o Kubernetes](https://livro.descomplicandokubernetes.com.br/pt/)<sup>HTML BOOK - PORTUGUÊS</sup>
 
-###
-Eu fiz esse curso em 2019, mas tem muito conteúdo atualizado, se você não tem problema com inglês, eu super recomendo. Porque é excelente.
-- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)<sup>UDEMY - INGLÊS</sup> 

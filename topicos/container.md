@@ -140,5 +140,6 @@ A principal diferença é que os contêineres compartilham o sistema operacional
 > Esse tópico vai ter apenas dois links. Sim! e é tudo que você precisa 😉. O primeiro é um vídeo excelente do Fábio Akita caso você queria entender as entranhas dos contêineres. O segundo é um vídeo que eu criei para o meu canal [DualBoot](https://www.youtube.com/@DualBootTech?sub_confirmation=1) no Youtube onde faço uma lista dos **MELHORES CURSOS DE DOCKER NO YOUTUBE**. Aprecie sem moderação hehe.
 ##
 ## Recursos de Estudo:
+### Obrigatórios:
 - [Entendendo Funcionamento de Containers](https://www.youtube.com/watch?v=85k8se4Zo70)
 - [Os melhores cursos de docker do Youtube](https://youtu.be/pVVL0CM6eWg?si=_xqBSq594LkrnD2T)
